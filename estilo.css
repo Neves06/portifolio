@@ -74,17 +74,22 @@ width: 350px;
 /*-- TABLET --*/
 
 @media screen and (max-width: 768px){
-   #header{
+  .h1{
+font-size: 86px;
+line-height: 76px;
+  }
+    #header{
       padding: 80px 0 130pc 0;
    }
    .perfil{
-      
+      width: 200px;
+      bottom: 40px;
    }
    #header .container{
 flex-direction: column;
 align-items: center;
    }
-   .perfil.sobre{
+   .perfil-sobre{
 flex-direction: column;
 align-items: center;
 display: flex;
