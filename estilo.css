@@ -75,14 +75,10 @@ h1{
   }
 
   
-   .recent-Works{
-      color: #0699A6;
-   }
-   
-   a{
+   ul li a{
       text-decoration: none;
       color: #0699A6;
-      width: 700px;
+    font-weight: 700px;
    }
 
 
@@ -110,8 +106,8 @@ h1{
 
    #footer{
       width: 100%;
-      background-color: #9e8c6c11;
       height: 547px;
+      background-color: #9e8c6c11;
    }
 
    #footer .container{
@@ -146,8 +142,6 @@ h1{
    justify-content: space-between;
   }
 
-  
-  
   
    /*---HEADER--- */
    
