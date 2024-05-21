@@ -130,11 +130,13 @@ h1{
  .career-Traits,
  .recent-Works{
    margin-bottom: 100px;
+   width: 350px;
 }
 
 #main{
    padding-top: 96px;
-}
+   display: flex;
+   }
 
   .social {
    display: flex;  
@@ -152,19 +154,13 @@ h1{
    background-color: #0699A6;
 }
 
-.AboutMe{
+.About-Me{
   justify-content: center;
-  margin-top: 66px;
   display: flex;
   width: 635px;
-  padding-left: 640px;
+  padding-left: 300px;
+  border-top-left-radius: 640px;
 }
-
-.Experience{
-   margin-top: 66px;
-   margin-bottom: 66px;
-}
-
 
    /*---HEADER--- */
    
