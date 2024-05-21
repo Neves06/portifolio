@@ -162,6 +162,11 @@ h1{
   border-top-left-radius: 640px;
 }
 
+.tituloedata{
+   display: flex;
+   justify-content: space-between; 
+   align-items: baseline;
+}
    /*---HEADER--- */
    
    /*---TABLET & MOBILE--- */
