@@ -127,8 +127,8 @@ h1{
  /*---MAIN--- */
  .skillset,
  .awards,
- .career-Traits,
- .recent-Works{
+ .careerTraits,
+ .recentWorks{
    margin-bottom: 100px;
    width: 350px;
 }
@@ -154,23 +154,22 @@ h1{
    background-color: #0699A6;
 }
 
-.About-Me{
-  justify-content: center;
-  display: flex;
+.AboutMe{
   width: 635px;
-  padding-left: 300px;
-  border-top-left-radius: 640px;
+  padding-left: 125px;
 }
 
-.tituloedata{
+.titlebox{
    display: flex;
-   justify-content: space-between; 
-   align-items: baseline;
+   justify-content: space-between;
+   align-items: center;
 }
+
    /*---HEADER--- */
    
    /*---TABLET & MOBILE--- */
-   @media screen and (max-width:768px){
+ @media screen and (max-width:375px){
+
       h1{
          font-size: 56px;
          line-height: 46px;
@@ -196,4 +195,28 @@ h1{
          align-items: center;
          text-align: center;
       }
+
+      .barra{
+         width: 71px;
+         height: 10px;
+         margin-top: 66px;
+         margin-bottom: 66px;
+         background-color: #0699A6;
+      }
+      
+      .About-Me{
+        justify-content: center;
+        display: flex;
+        width: 635px;
+        padding-left: 300px;
+        border-top-left-radius: 640px;
+        text-align:justify;
+      }
+ 
+      .titlebox{
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+    }
    }
+   
