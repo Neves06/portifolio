@@ -53,12 +53,7 @@ p {
    margin: 10px 0;
    font-size: 18px;
    font-weight: 900;
-   background-color: #8DADC5
-
-
-
-
-;
+   background-color: #8DADC5;
    color: #fff;
    text-decoration: none;
    text-transform: uppercase;
@@ -84,12 +79,7 @@ ul li {
 
 ul li a {
    text-decoration: none;
-   color: #8DADC5
-
-
-
-
-;
+   color: #8DADC5;
    font-weight: 600;
 }
 
@@ -100,14 +90,7 @@ ul li a {
 #header {
    width: 100%;
    padding: 180px 0 209px 0;
-   background-color:   #C9D4C5
-
-
-
-
-
-
-;
+   background-color: #C9D4C5;
 }
 
 .perfil {
@@ -143,12 +126,7 @@ ul li a {
 .barraazul {
    width: 71px;
    height: 10px;
-   background-color: #8DADC5
-
-
-
-
-;
+   background-color: #8DADC5;
    margin: 40px 0 40px 20px;
 }
 
@@ -184,12 +162,7 @@ ul li a {
 }
 
 #footer .container a {
-   color: #8DADC5
-
-
-
-
-;
+   color: #8DADC5;
    line-height: 46px;
    font-size: 36px;
    font-weight: 900;
@@ -244,13 +217,13 @@ ul li a {
        line-height: 36px;
    }
 
-   .skills ul li {
+   .habilidades ul li {
        font-size: 18px;
        line-height: 30px;
        font-weight: 400;
    }
 
-   .skills {
+   .habilidades {
        max-width: 335px;
    }
 
